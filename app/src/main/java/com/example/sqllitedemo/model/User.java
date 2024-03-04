@@ -42,6 +42,6 @@ public class User implements Serializable {
 
     @Override
     public String toString() {
-        return maU+"\t"+tenU+"\t"+phoneU;
+        return maU + "\t" + tenU + "\t" + phoneU;
     }
 }
